@@ -1,0 +1,57 @@
+[
+    {
+      "question": "How do you handle stress at work?",
+      "answers": [
+        { "text": "Crack a joke to lighten the mood", "character": "Jim" },
+        { "text": "Work harder and stay focused", "character": "Dwight" },
+        { "text": "Express your frustrations clearly", "character": "Stanley" },
+        { "text": "Try to get everyone to work as a team", "character": "Michael" },
+        { "text": "Keep to yourself and get through it", "character": "Pam" },
+        { "text": "Procrastinate and avoid it", "character": "Ryan" }
+      ]
+    },
+    {
+      "question": "What’s your ideal weekend activity?",
+      "answers": [
+        { "text": "Hosting a dinner party", "character": "Michael" },
+        { "text": "Working on your personal projects", "character": "Dwight" },
+        { "text": "Spending time with family", "character": "Pam" },
+        { "text": "Watching TV and relaxing", "character": "Kevin" },
+        { "text": "Going out and socializing", "character": "Kelly" },
+        { "text": "Going on a spontaneous adventure", "character": "Creed" }
+      ]
+    },
+    {
+      "question": "What’s your favorite type of movie?",
+      "answers": [
+        { "text": "Comedy", "character": "Michael" },
+        { "text": "Action/Adventure", "character": "Dwight" },
+        { "text": "Romantic Comedy", "character": "Pam" },
+        { "text": "Drama", "character": "Ryan" },
+        { "text": "Documentary", "character": "Creed" }
+      ]
+    },
+    {
+      "question": "How would your friends describe you?",
+      "answers": [
+        { "text": "Hilarious", "character": "Michael" },
+        { "text": "Loyal", "character": "Dwight" },
+        { "text": "Sweet", "character": "Pam" },
+        { "text": "Intelligent", "character": "Jim" },
+        { "text": "Outgoing", "character": "Kelly" },
+        { "text": "Mysterious", "character": "Creed" }
+      ]
+    },
+    {
+      "question": "What’s your go-to office snack?",
+      "answers": [
+        { "text": "Pretzels", "character": "Stanley" },
+        { "text": "Beets", "character": "Dwight" },
+        { "text": "Candy", "character": "Michael" },
+        { "text": "Yogurt", "character": "Pam" },
+        { "text": "Chips", "character": "Kevin" },
+        { "text": "Whatever’s in the fridge", "character": "Creed" }
+      ]
+    }
+  ]
+  
